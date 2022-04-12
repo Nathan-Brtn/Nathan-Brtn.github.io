@@ -1,8 +1,7 @@
   body
   {
     font-family : Arial;
-    color : white;
-    background-color:black;
+    color : black;
     background-image :url("Nevermore_Title.png");
   }
 a:hover {
