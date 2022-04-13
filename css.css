@@ -13,7 +13,7 @@ a:hover {
   text-decoration : underline;
 }
 a{
-  margin :none;
+  margin :0px;
   padding : 20px 50px 20px 50px;
   border : 5px black;
   text-decoration : none;
@@ -31,7 +31,6 @@ div{
 a:link {
   color: white;
 }
-/* visited link */
 a:visited {
   color: white;
 }
