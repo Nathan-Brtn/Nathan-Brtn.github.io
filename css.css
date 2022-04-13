@@ -9,6 +9,7 @@
 a:hover {
   color: #38a832;
   text-decoration : underline;
+}
 a{
   margin :auto;
   display : flex;
