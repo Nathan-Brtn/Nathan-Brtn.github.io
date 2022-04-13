@@ -16,7 +16,6 @@ a{
   margin :none;
   padding : 20px 50px 20px 50px;
   border : 5px black;
-  background-color : green;
   text-decoration : none;
 }
 @font-face {
@@ -28,5 +27,21 @@ div>a{
 }
 div{
   display :flex;
+}
+a:link {
+  color: white;
+}
+/* visited link */
+a:visited {
+  color: white;
+}
+#webtoon{
+  background-color : green;
+}
+#translate{
+  background-color : red;
+}
+#about{
+  background-color : blue;
 }
 
