@@ -20,7 +20,7 @@ a{
 }
 @font-face {
     font-family: 'segoe-print';
-    src: url(https://www.dafontfree.net/embed/c2Vnb2UtcHJpbnQtYm9sZCZkYXRhLzQ2L3MvNjIxMDgvc2Vnb2VwcmIudHRm);
+    src: url(segoepr.ttf);
 }
 div>a{
   display : flex;
