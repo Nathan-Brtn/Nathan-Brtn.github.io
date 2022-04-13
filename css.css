@@ -23,7 +23,10 @@ a{
     font-family: 'segoe-print';
     src: url(https://www.dafontfree.net/embed/c2Vnb2UtcHJpbnQtYm9sZCZkYXRhLzQ2L3MvNjIxMDgvc2Vnb2VwcmIudHRm);
 }
-div{
+div>a{
   display : block;
+}
+div{
+  display :flex;
 }
 
