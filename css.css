@@ -3,7 +3,7 @@
     color : black;
     text-align: center;
     background-color :#1c1c1c;
-    font-family: 'segoe-print-bold', sans-serif;
+    font-family: 'segoe-print', sans-serif;
   }
 a:hover {
   color: #38a832;
@@ -18,7 +18,7 @@ a{
   text-decoration : none;
 }
 @font-face {
-    font-family: 'segoe-print-bold';
+    font-family: 'segoe-print';
     src: url(https://www.dafontfree.net/embed/c2Vnb2UtcHJpbnQtYm9sZCZkYXRhLzQ2L3MvNjIxMDgvc2Vnb2VwcmIudHRm);
 }
 
