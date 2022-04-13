@@ -8,7 +8,7 @@
 a:hover {
   color: #38a832;
   text-decoration : underline;
-  text-size : 20px;
+  font-size : 20px;
 }
 a{
   margin :auto;
