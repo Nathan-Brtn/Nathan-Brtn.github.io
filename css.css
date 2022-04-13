@@ -4,6 +4,7 @@
     text-align: center;
     background-color :#1c1c1c;
     font-family: 'segoe-print', sans-serif;
+    font-size: xx-large;
   }
 a:hover {
   color: #38a832;
@@ -15,7 +16,6 @@ a{
   border : 5px black;
   background-color : green;
   text-decoration : none;
-  font-size: large;
 }
 @font-face {
     font-family: 'segoe-print';
