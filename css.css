@@ -4,13 +4,15 @@
     color : black;
     text-align: center;
     background-color :#1c1c1c;
-    width : 810px;
-    margin: auto;
   }
 a:hover {
   color: #38a832;
 }
-div{
-  text-align: center;
+a{
+  margin :auto;
+  display : flex;
+  padding : 20px 50px 20px 50px;
+  border : 5px black;
+  background-color : green;
 }
 
