@@ -1,6 +1,5 @@
   body
   {
-    font-family : Arial;
     color : black;
     text-align: center;
     background-color :#1c1c1c;
@@ -10,9 +9,13 @@ a:hover {
 }
 a{
   margin :auto;
-  display : flex;
+  display : inline;
   padding : 20px 50px 20px 50px;
   border : 5px black;
   background-color : green;
+}
+@font-face {
+    font-family: 'segoe-print-bold', sans-serif;
+    src: url(https://www.dafontfree.net/embed/c2Vnb2UtcHJpbnQtYm9sZCZkYXRhLzQ2L3MvNjIxMDgvc2Vnb2VwcmIudHRm);
 }
 
