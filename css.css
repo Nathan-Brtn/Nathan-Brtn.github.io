@@ -24,7 +24,7 @@ a{
     src: url(https://www.dafontfree.net/embed/c2Vnb2UtcHJpbnQtYm9sZCZkYXRhLzQ2L3MvNjIxMDgvc2Vnb2VwcmIudHRm);
 }
 div>a{
-  display : block;
+  display : flex;
 }
 div{
   display :flex;
