@@ -52,3 +52,10 @@ article{
 footer{
   font-size : medium;
 }
+#img1{
+  height : 209px;
+  width : 579px;
+}
+img{
+  margin : 10px;
+}
