@@ -21,7 +21,7 @@ a{
 }
 @font-face {
     font-family: 'segoe-print';
-    src: url(Segoe_Print_Bold.ttf);
+    src: url(segoepr.ttf);
 }
 a:link {
   color: white;
