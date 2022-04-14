@@ -30,7 +30,7 @@ a:visited {
   color: white;
 }
 .degrade-diagonal {
-  background: linear-gradient(to top right, #2b2b2b;,90%, #3b3b3b);
+  background: linear-gradient(to top right, #2b2b2b,90%, #3b3b3b);
   border-radius: 10px;
 }
 
