@@ -47,3 +47,6 @@ div {
 #a{
   padding : 20px 50px 20px 50px;
 }
+article{
+  display : flex;
+}
