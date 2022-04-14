@@ -36,14 +36,14 @@ div {
   margin-right: 2.5px;
   margin-left: 2.5px;
 }
-.rules{
+#rules{
   padding = 0px;
   color: #ff2020;
 }
-.discord{
+#discord{
   padding = 0px
   color: #ff2020;
 }
-.a{
+#a{
   padding : 20px 50px 20px 50px;
 }
