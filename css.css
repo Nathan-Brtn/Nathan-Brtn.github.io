@@ -23,25 +23,18 @@ a{
     font-family: 'segoe-print';
     src: url(Segoe_Print_Bold.ttf);
 }
-div>a{
-  display : flex;
-}
-div{
-  display :flex;
-}
 a:link {
   color: white;
 }
 a:visited {
   color: white;
 }
-#webtoon{
-  background-color : green;
+.degrade-diagonal {
+  background: linear-gradient(to top right, black, white);
 }
-#translate{
-  background-color : red;
-}
-#about{
-  background-color : blue;
+
+div {
+  width: 200px;
+  height: 100px;
 }
 
