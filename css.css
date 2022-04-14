@@ -30,8 +30,11 @@ a:visited {
 }
 
 div {
-  width: 810px;
-  height: 100px;
+  width: 400px;
+  height: 50px;
+  text-align: left;
+  margin-right: 2.5px;
+  margin-left: 2.5px;
 }
 .rules{
   padding = 0px;
