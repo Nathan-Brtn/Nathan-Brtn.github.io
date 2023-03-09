@@ -44,7 +44,6 @@ header > div{
 }
 
 #accueil{
-  display: none;
   align-items: center;
   justify-content: center;
   gap: 30px;
@@ -73,7 +72,11 @@ main{
   margin: 0px;
 }
 
+.visible{
+  display: flex;
+}
+
 .hidden{
-  visibility: hidden;
+  display: none;
 }
 
