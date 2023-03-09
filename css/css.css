@@ -55,7 +55,7 @@ main{
   display: flex;
 }
 
-p{
+#nom>p{
   font-family: 'Inria Sans', sans-serif;
   color: black;
   font-size: 64px;
