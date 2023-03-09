@@ -14,12 +14,12 @@ body
 
 @font-face {
     font-family: 'Inria Sans';
-    src: url(InriaSans-Light.ttf);
+    src: url(../../files/font/InriaSans-Light.ttf);
 }
 
 header{
   background-color:#515151 ;
-  height:85px ;
+  height:65px ;
   font-size: 34px;
   text-align: center;
   justify-content: center;
