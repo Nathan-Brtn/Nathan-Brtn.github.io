@@ -7,10 +7,10 @@
         <script src="script.js"></script>
     </head>
     <header>
-        <div>
+        <div onclick="changeContent('accueil')">
             ACCUEIL
         </div>
-        <div >
+        <div onclick="changeContent('competence')">
             COMPÉTENCES
         </div>
         <div >
@@ -22,7 +22,7 @@
     </header>
     <body>
     <main>
-        <div id="accueil" class="hidden accueil">
+        <div  id="accueil" class="hidden accueil">
             <img src="/files/svg/Ellipse%201.svg" alt="photo" width="320">
             <div id="nom">
                 <p id="prenom">BRETON NATHAN</p>
@@ -33,7 +33,7 @@
                 <p id="profession">ÉTUDIANT EN INFORMATIQUE</p>
             </div>
         </div>
-        <div id="competence" class="visible competence">
+        <div  id="competence" class="visible competence">
             <p>php</p>
         </div>
     </main>
