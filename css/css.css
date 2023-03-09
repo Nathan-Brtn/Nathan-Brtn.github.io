@@ -14,7 +14,7 @@ body
 
 @font-face {
     font-family: 'Inria Sans';
-    src: url(../../files/font/InriaSans-Light.ttf);
+    src: url(../files/font/InriaSans-Light.ttf);
 }
 
 header{
