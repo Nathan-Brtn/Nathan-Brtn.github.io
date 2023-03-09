@@ -9,7 +9,7 @@ body
   display: flex;
   align-content: center;
   flex-direction: column;
-  gap: 250px;
+  gap: 180px;
 }
 
 @font-face {
@@ -19,7 +19,7 @@ body
 
 header{
   background-color:#515151 ;
-  height:65px ;
+  height:60px ;
   font-size: 34px;
   text-align: center;
   justify-content: center;
@@ -58,14 +58,14 @@ main{
 p{
   font-family: 'Inria Sans', sans-serif;
   color: black;
-  font-size: 96px;
+  font-size: 64px;
   margin: 10px;
 }
 
 #profession{
   font-family: 'Inria Sans', sans-serif;
   color: black;
-  font-size: 60px;
+  font-size: 40px;
 }
 
 #nom{
