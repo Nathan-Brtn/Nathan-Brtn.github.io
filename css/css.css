@@ -55,7 +55,7 @@ main{
   display: flex;
 }
 
-#nom>p{
+#prenom{
   font-family: 'Inria Sans', sans-serif;
   color: black;
   font-size: 64px;
