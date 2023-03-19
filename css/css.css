@@ -80,3 +80,8 @@ main{
   display: none;
 }
 
+.competence{
+  display: flex;
+  flex-direction: column;
+}
+
