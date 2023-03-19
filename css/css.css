@@ -87,11 +87,16 @@ main{
 
 .web{
   flex-direction: column;
+  display: flex;
 }
 
 ul{
   display: flex;
   flex-direction: column;
   align-items: baseline;
+}
+
+.projet{
+  font-size: 50px;
 }
 
