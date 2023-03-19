@@ -85,3 +85,8 @@ main{
   flex-direction: column;
 }
 
+.web{
+  display: flex;
+  flex-direction: column;
+}
+
