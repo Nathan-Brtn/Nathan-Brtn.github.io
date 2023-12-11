@@ -6,10 +6,6 @@ body
   background-color : #F9F9F9;
   font-family: 'Inria Sans', sans-serif;
   font-size: large;
-  display: flex;
-  align-content: center;
-  flex-direction: column;
-  gap: 180px;
 }
 
 @font-face {
@@ -34,6 +30,7 @@ header > div{
   display: flex;
   background-color: rgb(60,96,223,0.83);
   width: 260px;
+  margin-bottom : 50px;
 }
 
 #rectangle{
